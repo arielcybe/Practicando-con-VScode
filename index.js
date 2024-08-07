@@ -1,6 +1,6 @@
 const fn = () => {
-    const mistring = "soy un string"
-    let b = mistring + " muy feliz"
+    const miString = "soy un string"
+    let b = miString + " muy feliz"
     console.log(b)
 }
 
